@@ -6,4 +6,4 @@
 - SCSS,
 - JS
 
-[Смотреть демо](https://ruslansalyukov.github.io/portfolio/)
+[Смотреть демо](https://rscodeaero.github.io/portfolio/)
